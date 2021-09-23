@@ -1,0 +1,12 @@
+1 jar 파일 넣기 -  mvnrepository, 메이블리포지토리, 메이븐 저장소
+2 컨트롤러 만들기 -  new-> servlet
+3 if 로 url 파싱 ex) /Select 이렇게 잘라내기 후 if로 페이지 링크 관리
+
+==========================================
+DAO 만들기 = db랑 연결해서 데이터 넣고/ 가져오고
+
+1. db연결 -  conn 가져오기 - Database Connection Pool
+    - DataSource를 통해서 만든다.
+
+
+
